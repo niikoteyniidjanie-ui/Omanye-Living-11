@@ -1,0 +1,7 @@
+{
+  "name": "Omanye Living",
+  "description": "A sophisticated real estate listing platform featuring curated luxury properties with a clean, editorial aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
